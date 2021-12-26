@@ -1,0 +1,6 @@
+#!/bin/sh
+apptitle="Drop EFI"
+version="1.0"
+open ./Drop-EFI.app
+
+
