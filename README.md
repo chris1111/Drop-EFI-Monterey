@@ -1,8 +1,9 @@
 # Drop-EFI-Monterey
 
 ### Download ➤ [Drop EFI Monterey ](https://github.com/chris1111/Drop-EFI-Monterey/releases/tag/V1)
-  
-  
+
+For macOS Ventura 13 ➤ [Drop-EFI](https://github.com/chris1111/Drop-EFI)
+ 
 Drop EFI Monterey
 Drop-EFI-Monterey is a wonderfull Droplet to mount EFI partitions in macOS 12
 - It works from 10.12 to macOS Monterey 12.
