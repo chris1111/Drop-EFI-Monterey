@@ -15,7 +15,7 @@ Drop-EFI-Monterey is a wonderfull Droplet to mount EFI partitions in macOS 12
 - Build by [chris1111](https://github.com/chris1111/)
 - Created from [Script Debugger](https://latenightsw.com/)
 - Credit: [Clover team for Mount EFI script](https://sourceforge.net/projects/cloverefiboot/)
-- Status Bar Create from ➢ [Platypus](https://sveinbjorn.org/platypus)
+- Status Bar Create from [Platypus](https://sveinbjorn.org/platypus)
       
 View Installation Video ⬇︎
 
